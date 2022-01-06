@@ -6,8 +6,7 @@
   
   [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=yonghoon1999)](https://solved.ac/yonghoon1999)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YonghoonChung&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter"/></a>                        
+                                            
 - 👋 Hi, I’m @YonghoonChung
 - 👀 I’m interested in Everything
 - 🌱 I’m currently learning python, DS, AI
